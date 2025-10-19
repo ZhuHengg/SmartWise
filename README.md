@@ -56,16 +56,10 @@ Phase 3 – City Integration – Collaborate with public bus operators (e.g., Ra
 Phase 4 – Smart City Ecosystem – Integrate with smart parking, bike-sharing, EV shuttles, and CO₂ dashboards.
 
 -------------------------------------------------------------------------------------------------------------------------------
-Files:
-Firmware_code - Batch collection of data from hardware
+Deployment
+Project is live at:
+https://vercel.com/23061743-6548s-projects/v0-ride-wise-campus-mobility
 
-my_app - FrontEnd
-
-Google Map API/Google Flash 2.5 API/Firebase - in progress of obtaining/developing
-
-ML_learning - In progress
-
-Reference : https://drive.google.com/drive/folders/1LgEQi5m65OwLkbbaYzF4QKRDncZOUUc7?usp=sharing
 -------------------------------------------------------------------------------------------------------------------------------
 📜 License
 
