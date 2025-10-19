@@ -58,7 +58,7 @@ Phase 4 – Smart City Ecosystem – Integrate with smart parking, bike-sharing,
 -------------------------------------------------------------------------------------------------------------------------------
 Deployment
 Project is live at:
-https://vercel.com/23061743-6548s-projects/v0-ride-wise-campus-mobility
+[https://vercel.com/23061743-6548s-projects/v0-ride-wise-campus-mobility](https://v0-ride-wise-campus-mobility-8e5ceqw4y-23061743-6548s-projects.vercel.app/bus-stop)
 
 -------------------------------------------------------------------------------------------------------------------------------
 📜 License
